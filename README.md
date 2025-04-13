@@ -1,4 +1,4 @@
-#Algoritmos-I-Gerenciamento-Estoque 
+# Algoritmos-I-Gerenciamento-Estoque 
 
 Projeto desenvolvido para a disciplina de Algoritmos I. O sistema permite ao usuário realizar diversas operações, 
 como cadastrar novos produtos, atualizar informações dos itens existentes, 
